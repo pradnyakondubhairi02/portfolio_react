@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb85043e.css",
+    "main.js": "/static/js/main.f0412ba1.js",
+    "static/media/meme1.png": "/static/media/meme1.24525d6f1a3a1d09dde4.png",
+    "static/media/react.png": "/static/media/react.dd1f05d50ab32ab7dcb4.png",
+    "static/media/formal.png": "/static/media/formal.a61415ddb8b733e7b4ac.png",
+    "static/media/mysql.png": "/static/media/mysql.f6b5f602612712ad86bb.png",
+    "static/media/cpp.png": "/static/media/cpp.265025ce50b9436565fe.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.0fd8625d471fcaea19f7.png",
+    "static/media/html.png": "/static/media/html.3a549f68f27d46ce8009.png",
+    "static/media/css.png": "/static/media/css.e834f3ab09a7887ee4cf.png",
+    "static/media/pg.webp": "/static/media/pg.f171dbab31c35d71bbd6.webp",
+    "static/media/js.png": "/static/media/js.1bb3dfb9b078a0305062.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/temp.jpg": "/static/media/temp.e0d7ee63e462777cbad8.jpg",
+    "static/media/tenzies.jpg": "/static/media/tenzies.9fa74ec46a6636984a53.jpg",
+    "static/media/ecomme.png": "/static/media/ecomme.a9cd0ae2bfd84cb749b8.png",
+    "static/media/child.jpg": "/static/media/child.0f1ea5f62e187a9401da.jpg",
+    "index.html": "/index.html",
+    "main.cb85043e.css.map": "/static/css/main.cb85043e.css.map",
+    "main.f0412ba1.js.map": "/static/js/main.f0412ba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb85043e.css",
+    "static/js/main.f0412ba1.js"
+  ]
+}
